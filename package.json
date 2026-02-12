@@ -1,0 +1,10 @@
+{
+  "name": "stablecoin-cdp-engine",
+  "version": "1.0.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  }
+}
